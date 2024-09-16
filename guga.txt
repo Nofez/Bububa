@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 guga
 buba
 duba
@@ -6,3 +7,13 @@ baba
 
 koko
 kaka
+=======
+guga
+buba
+duba
+baba
+
+
+koko
+kaka
+>>>>>>> 3a544125ca7e6688faa6eb5ae50536d6964e77e6
